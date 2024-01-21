@@ -1,0 +1,7 @@
+Read files via path traversal
+Lets say that a site loads an image with <img ... src="/loadImage?filename=01.png">
+The image is stored in disk, it checks on /var/www/images/ for the image
+No defence against path traversal?
+Add whatever you want in path! 
+For example lets go back 3 directories with /../../../AndDoWhateverYouWant
+
