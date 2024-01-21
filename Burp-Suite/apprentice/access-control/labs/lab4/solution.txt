@@ -1,0 +1,6 @@
+Goal: Find the GUID for carlos, then submit his API key as the solution. 
+
+Found an article by carlos
+Clicked on carlos and in the linked was his id
+Connected to my acc
+Replaced my id with his!

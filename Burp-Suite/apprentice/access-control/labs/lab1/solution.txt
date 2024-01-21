@@ -1,0 +1,4 @@
+Unprotected admin functionality
+Checked robots.txt
+Found admin panel!
+

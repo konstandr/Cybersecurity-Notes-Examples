@@ -1,0 +1,2 @@
+Found in http response the admin panel
+Accessed it and deleted the user
