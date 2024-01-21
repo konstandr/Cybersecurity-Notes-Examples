@@ -1,5 +1,5 @@
 Goal: Path traversal - Get /etc/passwd
 
-Found when sellecting a product, it calls GET /image?filename=
-We add as filename "../../../../etc/passwd"
-And we get the passwd
+Found when sellecting a product that it calls GET /image?filename=
+Added as filename "../../../../etc/passwd"
+And got the passwd
