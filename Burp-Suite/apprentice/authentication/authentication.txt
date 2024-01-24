@@ -1,0 +1,6 @@
+Authentication -> I am who I say i am. Verify!
+Also, can this verified user do this or that?
+
+Brute-force attacks
+Trial and error till you find it.
+

@@ -1,0 +1,15 @@
+Goal: We have 2 wordlists (One with usernames and one with passwords). Enumerate a valid username, brute-force this user's password and finally, access their account page
+
+Solution:
+Noticed when I tried to login it returned: Invalid username, so I get some info for the user enumeration.
+
+When i brute forced it with intruder, i got a reply with different length than the others, for user ftp
+He also got 200 error code, but for wrong password
+
+So lets brute-force user ftp
+
+Found different HTTP code for password michael, indicated that its his password
+
+So
+Username: ftp
+Password: michael
